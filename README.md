@@ -9,3 +9,9 @@ Using deep learning techniques and very large model architectures, LLM can tackl
 ## Program : IBM Advance AI
 ## Mentor : Jonatan Situmorang
 -------------------------------
+# Skill will Learn
+-Python
+-Generative AI
+-LLM
+-Chatbots
+-Flask
